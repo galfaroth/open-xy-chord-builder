@@ -34,9 +34,9 @@ The tonic sits on C's octave immediately below the right-hand F. The **Key** par
 | Key | C through B, chromatic |
 | Scale | major, natural minor, Dorian, Mixolydian, Lydian, harmonic minor |
 | Strum | 0, 1, 2, 3, 4, 6, 8 or 12 native player steps between tones |
-| Style | Close, Open, Wide, Flume |
+| Style | Close, Open, Wide, Veff |
 
-**Open** raises alternating chord tones one octave. **Wide** spreads successive tones over three registers. **Flume** is an original Flume-inspired electronic voicing: wide upper tones, added ninth/thirteenth, diatonic seventh in Auto, and a low root. It is not a transcription of any artist's chords or a claim to reproduce Orchid's proprietary algorithm. The keyboard's open/bass/colour switches combine with styles. Added colour tones may leave the chosen scale; Auto's basic triad is diatonic.
+**Open** raises alternating chord tones one octave. **Wide** spreads successive tones over three registers. **Veff** is an original wide, extended electronic voicing: wide upper tones, added ninth/thirteenth, diatonic seventh in Auto, and a low root. It is not a transcription of any artist's chords or a claim to reproduce Orchid's proprietary algorithm. The keyboard's open/bass/colour switches combine with styles. Added colour tones may leave the chosen scale; Auto's basic triad is diatonic.
 
 Inversions apply before spreading. At MIDI limits pitches fold by octaves, preserving pitch class; duplicate pitches are removed. A chord has at most eight tones. The stock instrument track has up to eight sounding voices; seven held degree keys do not mean 56 simultaneous voices. Voice stealing still applies with rich or overlapping chords.
 
@@ -70,4 +70,4 @@ Hardware timing, recording and live performance validation remain pending. No de
 
 Implementation and artwork are original MIT-licensed work. The public player API and official [Open-XY Chords example](https://github.com/etcetc000/open-xy-core-machines/tree/main/machines/chords) informed SDK integration.
 
-Conceptual references requested for research: [ChoralRoot FM-1](https://github.com/Quixotic7/ChoralRootFM1) and [CoralFlower](https://github.com/FicusFicusov/CoralFlower), both GPL-3.0 projects. Their README descriptions informed the two-hand chord-instrument idea; no source code, voicing tables or artwork from those projects was copied or linked. This is neither their port nor affiliated with Telepathic Instruments, Orchid, Flume or Teenage Engineering.
+Conceptual references requested for research: [ChoralRoot FM-1](https://github.com/Quixotic7/ChoralRootFM1) and [CoralFlower](https://github.com/FicusFicusov/CoralFlower), both GPL-3.0 projects. Their README descriptions informed the two-hand chord-instrument idea; no source code, voicing tables or artwork from those projects was copied or linked. This is neither their port nor affiliated with Telepathic Instruments, Orchid or Teenage Engineering.

@@ -20,7 +20,7 @@ const i32 white[7] = {0,2,4,6,7,9,11};
 const char* const qualities[] = {"auto","min","maj","sus4","maj6","min7","maj7","add9","sus2","dim","dom7","9"};
 const char* const keys[] = {"C","C#","D","D#","E","F","F#","G","G#","A","A#","B"};
 const char* const scales[] = {"Major","Minor","Dorian","Mixolyd","Lydian","HarmMin"};
-const char* const styles[] = {"Close","Open","Wide","Flume"};
+const char* const styles[] = {"Close","Open","Wide","Veff"};
 const u32 strums[] = {0,1,2,3,4,6,8,12};
 // Multiply only the upper Q31 bits: exact enum buckets without wide arithmetic.
 u32 bucket(i32 value, u32 choices) {
