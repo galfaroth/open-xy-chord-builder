@@ -1,0 +1,55 @@
+name: Chords by Veff checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+env:
+  OPEN_XY_REF: 7fd8fdf1757e11ab6fdca915b09f1773d7611a31
+jobs:
+  player:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: machine
+      - uses: actions/checkout@v4
+        with:
+          repository: etcetc000/open-xy
+          ref: ${{ env.OPEN_XY_REF }}
+          path: open-xy
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Source and semantic checks
+        run: python open-xy/sdk.py test --machine machine --host-cxx g++
+      - name: Reproducible artwork
+        run: |
+          python machine/artwork.py
+          git -C machine diff --exit-code -- panel.svg.fragment
+  native:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: machine
+      - uses: actions/checkout@v4
+        with:
+          repository: etcetc000/open-xy
+          ref: ${{ env.OPEN_XY_REF }}
+          path: open-xy
+      - uses: actions/checkout@v4
+        with:
+          repository: etcetc000/open-xy-core-machines
+          ref: c8508d7f55fbaabb470faec9c16f65d456a41d04
+          path: core
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Pinned Blackfin tools
+        run: python open-xy/sdk.py toolchain fetch
+      - name: Native player plus core synth (no firmware input)
+        run: |
+          python -c "import json,pathlib; r=pathlib.Path.cwd(); pathlib.Path('collection.json').write_text(json.dumps({'schema':1,'machines':[{'path':str(r/'machine')},{'path':str(r/'core/machines/fm2op')}]}))"
+          python open-xy/sdk.py compile --collection collection.json --out "${{ runner.temp }}/module"

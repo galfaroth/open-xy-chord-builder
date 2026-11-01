@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "id": "veffchord",
+  "name": "Chords by Veff",
+  "parameters": [
+    {
+      "id": "key",
+      "label": "Key",
+      "default": 0,
+      "mapping": {
+        "kind": "enum",
+        "labels": [
+          "C",
+          "Cs",
+          "D",
+          "Ds",
+          "E",
+          "F",
+          "Fs",
+          "G",
+          "Gs",
+          "A",
+          "As",
+          "B"
+        ]
+      },
+      "display": "enum"
+    },
+    {
+      "id": "scale",
+      "label": "Scale",
+      "default": 0,
+      "mapping": {
+        "kind": "enum",
+        "labels": [
+          "Major",
+          "Minor",
+          "Dorian",
+          "Mixolyd",
+          "Lydian",
+          "HarmMin"
+        ]
+      },
+      "display": "enum"
+    },
+    {
+      "id": "strum",
+      "label": "Strum",
+      "default": 0,
+      "mapping": {
+        "kind": "enum",
+        "labels": [
+          "0",
+          "1",
+          "2",
+          "3",
+          "4",
+          "6",
+          "8",
+          "12"
+        ]
+      },
+      "display": "enum"
+    },
+    {
+      "id": "style",
+      "label": "Style",
+      "default": 0,
+      "mapping": {
+        "kind": "enum",
+        "labels": [
+          "Close",
+          "Open",
+          "Wide",
+          "Flume"
+        ]
+      },
+      "display": "enum"
+    }
+  ],
+  "presets": {},
+  "resources": {}
+}

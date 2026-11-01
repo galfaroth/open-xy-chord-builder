@@ -1,0 +1,335 @@
+<g id="veffchord_panel">
+<text transform="matrix(1 0 0 1 240 45)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="14" fill="#cbcbcb">CHORDS by Veff</text>
+<text id="veffchord_text" transform="matrix(1 0 0 1 240 68)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="15" fill="#cbcbcb">auto i+0</text>
+<text transform="matrix(1 0 0 1 124 85)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="8" fill="#cbcbcb">QUALITY</text>
+<text transform="matrix(1 0 0 1 344 85)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="8" fill="#cbcbcb">DEGREE / VOICING</text>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 24 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 38 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">min</text>
+<circle id="veffchord_dot_0" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 38 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 54 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 68 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">maj</text>
+<circle id="veffchord_dot_2" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 68 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 84 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 98 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">sus4</text>
+<circle id="veffchord_dot_4" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 98 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 114 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 128 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">maj6</text>
+<circle id="veffchord_dot_6" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 128 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 144 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 158 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">min7</text>
+<circle id="veffchord_dot_7" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 158 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 174 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 188 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">maj7</text>
+<circle id="veffchord_dot_9" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 188 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 204 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 218 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">add9</text>
+<circle id="veffchord_dot_11" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 218 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 44 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 54 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">auto</text>
+<circle id="veffchord_dot_1" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 54 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 74 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 84 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">sus2</text>
+<circle id="veffchord_dot_3" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 84 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 104 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 114 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">dim</text>
+<circle id="veffchord_dot_5" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 114 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 164 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 174 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">dom7</text>
+<circle id="veffchord_dot_8" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 174 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 194 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 204 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">9</text>
+<circle id="veffchord_dot_10" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 204 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 244 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 258 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">I</text>
+<circle id="veffchord_dot_12" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 258 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 274 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 288 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">II</text>
+<circle id="veffchord_dot_14" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 288 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 304 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 318 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">III</text>
+<circle id="veffchord_dot_16" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 318 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 334 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 348 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">IV</text>
+<circle id="veffchord_dot_18" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 348 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 364 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 378 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">V</text>
+<circle id="veffchord_dot_19" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 378 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 394 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 408 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">VI</text>
+<circle id="veffchord_dot_21" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 408 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h28v60h-28Z" transform="matrix(1 0 0 1 424 94)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 438 144)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="9" fill="#000000">VII</text>
+<circle id="veffchord_dot_23" cx="0" cy="0" r="3" transform="matrix(1 0 0 1 438 128)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 264 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 274 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">inv+</text>
+<circle id="veffchord_dot_13" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 274 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 294 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 304 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">inv-</text>
+<circle id="veffchord_dot_15" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 304 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 324 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 334 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">open</text>
+<circle id="veffchord_dot_17" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 334 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 384 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 394 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">bass</text>
+<circle id="veffchord_dot_20" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 394 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<path d="M0 0h20v29h-20Z" transform="matrix(1 0 0 1 414 94)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 424 105)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="7" fill="#cbcbcb">color</text>
+<circle id="veffchord_dot_22" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 424 115)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<text transform="matrix(1 0 0 1 240 167)" text-anchor="middle" font-family="UniversNextPro-Light" font-size="8" fill="#cbcbcb">SOUNDING NOTES</text>
+<path id="veffchord_key_0" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_2" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_4" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_5" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_7" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_9" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_11" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_12" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_14" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_16" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_17" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_19" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_21" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_23" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_24" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_26" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_28" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_29" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_31" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_33" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_35" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_36" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_38" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_40" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_41" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_43" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_45" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_47" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_48" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_50" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_52" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_53" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_55" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_57" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_59" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_60" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_62" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_64" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_65" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_67" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_69" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_71" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_72" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_74" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_76" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_77" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_79" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_81" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_83" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_84" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_86" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_88" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_89" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_91" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_93" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_95" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_96" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_98" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_100" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_101" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_103" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_105" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_107" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_108" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_110" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_112" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_113" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_115" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_117" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_119" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_120" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_122" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_124" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_125" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_127" d="M0 0h10v44h-10Z" transform="matrix(1 0 0 1 640 174)" fill="#cbcbcb" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_1" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_3" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_6" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_8" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_10" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_13" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_15" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_18" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_20" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_22" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_25" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_27" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_30" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_32" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_34" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_37" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_39" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_42" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_44" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_46" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_49" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_51" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_54" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_56" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_58" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_61" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_63" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_66" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_68" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_70" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_73" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_75" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_78" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_80" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_82" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_85" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_87" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_90" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_92" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_94" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_97" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_99" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_102" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_104" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_106" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_109" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_111" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_114" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_116" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_118" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_121" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_123" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<path id="veffchord_key_126" d="M0 0h6v27h-6Z" transform="matrix(1 0 0 1 640 174)" fill="#161616" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_0" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_1" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_2" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_3" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_4" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_5" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_6" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_7" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_8" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_9" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_10" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_11" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_12" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_13" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_14" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_15" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_16" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_17" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_18" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_19" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_20" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_21" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_22" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_23" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_24" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_25" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_26" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_27" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_28" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_29" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_30" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_31" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_32" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_33" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_34" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_35" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_36" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_37" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_38" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_39" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_40" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_41" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_42" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_43" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_44" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_45" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_46" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_47" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_48" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_49" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_50" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_51" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_52" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_53" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_54" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_55" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_56" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_57" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_58" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_59" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_60" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_61" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_62" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_63" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_64" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_65" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_66" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_67" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_68" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_69" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_70" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_71" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_72" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_73" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_74" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_75" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_76" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_77" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_78" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_79" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_80" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_81" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_82" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_83" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_84" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_85" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_86" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_87" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_88" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_89" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_90" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_91" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_92" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_93" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_94" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_95" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_96" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_97" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_98" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_99" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_100" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_101" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_102" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_103" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_104" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_105" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_106" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_107" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_108" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_109" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_110" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_111" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_112" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_113" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_114" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_115" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_116" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_117" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_118" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_119" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_120" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_121" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_122" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_123" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_124" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_125" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_126" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+<circle id="veffchord_played_127" cx="0" cy="0" r="2" transform="matrix(1 0 0 1 640 208)" fill="#ffffff" stroke="#000000" stroke-width="1"/>
+</g>
